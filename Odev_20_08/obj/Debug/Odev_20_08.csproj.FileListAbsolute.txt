@@ -1,0 +1,11 @@
+C:\Users\alkan\source\repos\Odev_20_08\Odev_20_08\bin\Debug\Odev_20_08.exe.config
+C:\Users\alkan\source\repos\Odev_20_08\Odev_20_08\bin\Debug\Odev_20_08.exe
+C:\Users\alkan\source\repos\Odev_20_08\Odev_20_08\bin\Debug\Odev_20_08.pdb
+C:\Users\alkan\source\repos\Odev_20_08\Odev_20_08\obj\Debug\Odev_20_08.csproj.AssemblyReference.cache
+C:\Users\alkan\source\repos\Odev_20_08\Odev_20_08\obj\Debug\Odev_20_08.csproj.SuggestedBindingRedirects.cache
+C:\Users\alkan\source\repos\Odev_20_08\Odev_20_08\obj\Debug\Odev_20_08.Form1.resources
+C:\Users\alkan\source\repos\Odev_20_08\Odev_20_08\obj\Debug\Odev_20_08.Properties.Resources.resources
+C:\Users\alkan\source\repos\Odev_20_08\Odev_20_08\obj\Debug\Odev_20_08.csproj.GenerateResource.cache
+C:\Users\alkan\source\repos\Odev_20_08\Odev_20_08\obj\Debug\Odev_20_08.csproj.CoreCompileInputs.cache
+C:\Users\alkan\source\repos\Odev_20_08\Odev_20_08\obj\Debug\Odev_20_08.exe
+C:\Users\alkan\source\repos\Odev_20_08\Odev_20_08\obj\Debug\Odev_20_08.pdb
